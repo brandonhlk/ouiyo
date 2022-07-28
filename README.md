@@ -4,8 +4,8 @@ We are a hall check-in and room cleaning service
 
 ### How it works
 
-1. Select services required (cleaning, remote check-in & moving)
-2. Follow instructions below to fill our booking form
+1. Browse our services below
+2. Complete our booking form and we'll get in touch
 3. We'll carry out the service depending on your preferences
 
 ### Services
