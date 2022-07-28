@@ -5,6 +5,7 @@
 
 header {
   display: flex;
+  flex-wrap: nowrap;
   text-align: center;
   padding: 0;
   flex-direction: column;
