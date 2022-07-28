@@ -14,7 +14,7 @@ Cleaning
 - Wipe all mirrors and glass fixtures
 - Clean all floor surfaces
 
-Add Ons:
+Optional Add Ons:
 1. Remote check-in (Keyfob collected on your behalf)
 2. Moving and storage of items in your room 
 ```
