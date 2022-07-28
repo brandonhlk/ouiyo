@@ -3,9 +3,9 @@
 We are a hall check-in and room cleaning service
 
 ### How it works
-<ion-icon name="help-outline">Browse our services below</ion-icon> 
-<ion-icon name="list-outline">Complete our booking form and we'll get in touch</ion-icon> 
-<ion-icon name="build-outline">We'll carry out the service depending on your preferences</ion-icon> 
+<ion-icon name="help-outline"></ion-icon> Browse our services below
+<ion-icon name="list-outline"></ion-icon> Complete our booking form and we'll get in touch
+<ion-icon name="build-outline"></ion-icon> We'll carry out the service depending on your preferences
 
 ### Services
 ```
