@@ -38,6 +38,12 @@ button {
   margin: 20px;
 }
 
+button:hover {
+  background-color: white;
+  border: 1px solid #4361ee;
+  transition: 0.7s;
+}
+
 ion-icon {
   color: #4361ee;
   display: inline;
