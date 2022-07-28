@@ -3,10 +3,9 @@
 We are a hall check-in and room cleaning service
 
 ### How it works
-
-1. Browse our services below
-2. Complete our booking form and we'll get in touch
-3. We'll carry out the service depending on your preferences
+<ion-icon name="build-outline"></ion-icon> Browse our services below
+<ion-icon name="list-outline"></ion-icon> Complete our booking form and we'll get in touch
+<ion-icon name="build-outline"></ion-icon> We'll carry out the service depending on your preferences
 
 ### Services
 ```
