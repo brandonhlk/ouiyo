@@ -1,4 +1,4 @@
-## Welcome to Ouiyo
+## Welcome
 
 We are a hall check-in and room cleaning service
 
