@@ -4,18 +4,33 @@
 @import "jekyll-theme-minimal";
 
 header {
-    align-items: center;
+  text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color:#4361EE;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #4361ee;
+}
+
+button {
+  background-color: #4361ee;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
 
 ion-icon {
-    color: #4361EE;
-    display: inline;
-    vertical-align: middle;
-    float: left;
-    padding-top: 3px;
-    padding-right: 5px;
+  color: #4361ee;
+  display: inline;
+  vertical-align: middle;
+  float: left;
+  padding-top: 3px;
+  padding-right: 5px;
 }
