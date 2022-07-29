@@ -38,8 +38,8 @@ Cleaner & Mover
 
 We are looking for **ad-hoc cleaners** and **movers** (both runners and drivers).
 We are also recruiting **interns** (operations, product design, software engineering)
-To find out more, email us at **<a href="url">mail@ouiyo.com</a>**. 
+To find out more, email us at **<a href = "mailto: mail@ouiyo.com">mail@ouiyo.com</a>**. 
 ### Contact Us
 
-<ion-icon name="mail-outline"></ion-icon> Email us at **<a href="url">mail@ouiyo.com</a>**
-<ion-icon name="chatbubble-outline"></ion-icon>  Receive updates at **t.me/ouiyo</a>** 
+<ion-icon name="mail-outline"></ion-icon> Email us at **<a href = "mailto: mail@ouiyo.com">mail@ouiyo.com</a>**
+<ion-icon name="chatbubble-outline"></ion-icon>  Receive updates at **<a href="t.me/ouiyo">t.me/ouiyo</a>** 
