@@ -13,14 +13,20 @@ Cleaning
 - Dust all accessible surfaces 
 - Wipe all mirrors and glass fixtures
 - Clean all floor surfaces
+```
 
+```
+Moving
+- Pickup items from your home
+- Dropoff items in your room
+```
+
+```
 Optional Add Ons:
-1. Remote check-in (Keyfob collected on your behalf)
-2. Moving and storage of items in your room 
+- Remote check-in (Keyfob collected on your behalf)
 ```
 
 ### Available Staff
-
 ```
 Brandon Ho (NTU, Y4)
 Male ♂️
