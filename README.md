@@ -2,10 +2,14 @@
 
 We are a hall check-in and room cleaning service
 
+### Events & Updates
+
+To celebrate Ouiyo's launch, any bookings made for 1 Aug 2022 to 5 Aug 2022 will not be charged any late booking fee! 
+
 ### How it works
 <ion-icon name="help-outline"></ion-icon> Browse our services below
 <ion-icon name="list-outline"></ion-icon> Complete our booking form and we'll get in touch
-<ion-icon name="build-outline"></ion-icon> We'll carry out the service depending on your preferences
+<ion-icon name="build-outline"></ion-icon> We'll carry out the service depending on your preference
 
 ### Services
 ```
@@ -23,7 +27,7 @@ Moving
 
 ```
 Optional Add Ons:
-- Remote check-in (Keyfob collected on your behalf)
+- Remote check-in (Key collected on your behalf)
 ```
 
 ### Available Staff
@@ -43,3 +47,7 @@ To find out more, email us at **<a href = "mailto: mail@ouiyo.com">mail@ouiyo.co
 
 <ion-icon name="mail-outline"></ion-icon> Email us at **<a href = "mailto: mail@ouiyo.com">mail@ouiyo.com</a>**
 <ion-icon name="chatbubble-outline"></ion-icon>  Receive updates at **<a href="https://t.me/ouiyo">t.me/ouiyo</a>** 
+
+### Frequently Asked Questions
+Find out more at **<a href="https://ouiyo.notion.site/Frequently-Asked-Questions-5edb142f661f4fd6b46590be6d85aca8">FAQ</a>** 
+
