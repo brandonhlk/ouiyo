@@ -18,7 +18,7 @@ Cleaning
 ```
 Moving
 - Pickup items from your home
-- Dropoff items in your room
+- Drop-off items in your room
 ```
 
 ```
