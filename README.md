@@ -42,4 +42,4 @@ To find out more, email us at **<a href = "mailto: mail@ouiyo.com">mail@ouiyo.co
 ### Contact Us
 
 <ion-icon name="mail-outline"></ion-icon> Email us at **<a href = "mailto: mail@ouiyo.com">mail@ouiyo.com</a>**
-<ion-icon name="chatbubble-outline"></ion-icon>  Receive updates at **<a href="t.me/ouiyo">t.me/ouiyo</a>** 
+<ion-icon name="chatbubble-outline"></ion-icon>  Receive updates at **<a href="https://t.me/ouiyo">t.me/ouiyo</a>** 
