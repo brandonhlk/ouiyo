@@ -1,10 +1,8 @@
 ## Welcome
 
-We are a hall check-in and room cleaning service
+**We are a hall check-in and room cleaning service**
 
-### Events & Updates
-
-To celebrate Ouiyo's launch, any bookings made for 1 Aug 2022 to 5 Aug 2022 will not be charged any late booking fee! 
+To celebrate Ouiyo's launch and National Day, any bookings made for **1 Aug 2022 to 9 Aug 2022** will not be charged any late booking fee! 
 
 ### How it works
 <ion-icon name="help-outline"></ion-icon> Browse our services below
