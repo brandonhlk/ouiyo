@@ -2,7 +2,7 @@
 
 **We are a hall check-in and room cleaning service**
 
-To celebrate Ouiyo's launch and National Day, any bookings made for **1 Aug 2022 to 9 Aug 2022** can expect to receive bundle discounts up to $10!
+To celebrate Ouiyo's launch and National Day, any bookings made for  **1 Aug 2022 to 9 Aug 2022** can expect to receive bundle discounts up to $10!
 
 ### How it works
 <ion-icon name="help-outline"></ion-icon> Browse our services below
